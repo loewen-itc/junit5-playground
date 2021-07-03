@@ -1,12 +1,16 @@
-package de.loewenitc;
+package loewenitc.extension;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.junit.jupiter.params.ParameterizedTest;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import de.loewenitc.extension.RandomLengthExtension;
+import de.loewenitc.extension.Mug;
+import de.loewenitc.extension.MugService;
+import de.loewenitc.extension.MugType;
+import de.loewenitc.extension.RandomNameGenerator;
 import lombok.extern.slf4j.Slf4j;
 
 @ExtendWith(MockitoExtension.class)

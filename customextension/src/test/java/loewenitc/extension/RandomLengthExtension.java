@@ -1,4 +1,4 @@
-package de.loewenitc.extension;
+package loewenitc.extension;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

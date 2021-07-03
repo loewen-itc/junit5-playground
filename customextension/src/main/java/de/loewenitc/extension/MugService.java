@@ -1,4 +1,4 @@
-package de.loewenitc;
+package de.loewenitc.extension;
 
 import org.springframework.stereotype.Service;
 

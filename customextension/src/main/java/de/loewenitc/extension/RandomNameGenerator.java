@@ -1,4 +1,4 @@
-package de.loewenitc;
+package de.loewenitc.extension;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.springframework.stereotype.Component;
